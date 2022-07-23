@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/travellers-ui-booking-website/static/css/main.a74c4e29.css",
-    "main.js": "/travellers-ui-booking-website/static/js/main.61758031.js",
+    "main.js": "/travellers-ui-booking-website/static/js/main.a796e9be.js",
     "index.html": "/travellers-ui-booking-website/index.html",
     "main.a74c4e29.css.map": "/travellers-ui-booking-website/static/css/main.a74c4e29.css.map",
-    "main.61758031.js.map": "/travellers-ui-booking-website/static/js/main.61758031.js.map"
+    "main.a796e9be.js.map": "/travellers-ui-booking-website/static/js/main.a796e9be.js.map"
   },
   "entrypoints": [
     "static/css/main.a74c4e29.css",
-    "static/js/main.61758031.js"
+    "static/js/main.a796e9be.js"
   ]
 }
