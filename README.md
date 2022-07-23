@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Run this Travellers-booking website on:
+https://amangarg0303.github.io/travellers-ui-booking-website/
+
+If the page doesn't load, refresh it 2-3 times.
+
 ## Available Scripts
 
 In the project directory, you can run:
